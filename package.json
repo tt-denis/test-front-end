@@ -5,8 +5,7 @@
   "main": "src/index.js",
   "type": "module",
   "scripts": {
-    "start": "parcel ./src/index.html -p 3000 --open",
-    "build": "parcel build"
+    "start": "parcel ./src/index.html -p 3000 --open"
   },
   "author": "",
   "license": "ISC",
