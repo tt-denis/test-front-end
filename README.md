@@ -1,11 +1,7 @@
 # Project test-front-end
-
-Write here about your project in two-three sentences.
-- [DEMO LINK](<https://github.com/tt-denis/test-front-end/>)
-
 ## Used stack
 
-* React, TS
+* JS, CSS
 
 ### Dependencies
 
